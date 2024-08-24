@@ -5,7 +5,7 @@ Install Instructions:
 
 1) [Download & Install VLC](https://www.videolan.org/vlc/)
 2) Install [Streamlink](https://streamlink.github.io/install.html) - `brew install streamlink`
-3) Download the F1 stream script - `curl -o ~/.f1.sh https://raw.githubusercontent.com/andyburton/f1-stream/main/f1.sh && chmod +x ~/f1.sh`
+3) Download the F1 stream script - `curl -o ~/f1.sh https://raw.githubusercontent.com/andyburton/f1-stream/main/f1.sh && chmod +x ~/f1.sh`
 4) [Open stream in browser window to authorise your IP](https://fbstreams.pm/live/stream/sky-sports-f1-sky-f1-fb-1/) - you shouldn't need to click/do anything!
 5) Run the F1 stream script - `~/f1.sh`
 
