@@ -9,7 +9,7 @@ Install Instructions:
 4) [Open stream in browser window to authorise your IP](https://fbstreams.pm/live/stream/sky-sports-f1-sky-f1-fb-1/) - you shouldn't need to click/do anything!
 5) Run the F1 stream script - `~/f1.sh`
 
-If this doens't work and you get an error:
+If this doesn't work and you get an error:
 
 1) Click through the ads to get the stream running in the browser - best to have an adblocker!
 2) Keep the page open once running - may be best to mute the stream in the browser.
