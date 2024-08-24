@@ -1,5 +1,5 @@
 # f1-stream
-Quickly open a Sky Sports F1 live video stream.
+Quickly open a Sky Sports F1 live video stream in VLC on MacOS.
 
 Install Instructions:
 
